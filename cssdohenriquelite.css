@@ -84,7 +84,7 @@ margin: 0;
 }
 
 .bg{
-  background-image: url(https://i.imgur.com/Zg8pdqW.jpeg);
+  background-image: url('https://i.imgur.com/Zg8pdqW.jpeg');
   background-repeat:no-repeat;
   background-size: cover;
   background-position:center;
